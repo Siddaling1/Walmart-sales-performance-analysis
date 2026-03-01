@@ -41,3 +41,7 @@ The project demonstrates practical business analytics using SQL for querying, Py
 This project showcases the complete data analytics workflow including data cleaning, database management, SQL querying, statistical analysis, and business intelligence reporting.
 
 It highlights the ability to transform raw data into actionable business insights.
+
+
+## Screenshots
+![Dashboard](https://raw.githubusercontent.com/Siddaling1/Walmart-sales-performance-analysis/main/Screenshot%202026-03-01%20172127.png)
