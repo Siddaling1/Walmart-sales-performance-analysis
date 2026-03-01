@@ -43,5 +43,13 @@ This project showcases the complete data analytics workflow including data clean
 It highlights the ability to transform raw data into actionable business insights.
 
 
-## Screenshots
-![Dashboard](https://raw.githubusercontent.com/Siddaling1/Walmart-sales-performance-analysis/main/Screenshot%202026-03-01%20172127.png)
+## 📸 Dashboard Preview
+
+### Executive Overview
+![Executive Overview](https://raw.githubusercontent.com/Siddaling1/Walmart-sales-performance-analysis/main/Screenshot%202026-03-01%20172127.png)
+
+### Store Performance
+![Store Performance](https://raw.githubusercontent.com/Siddaling1/Walmart-sales-performance-analysis/main/Screenshot%202026-03-01%20172147.png)
+
+### Insights / KPI Page
+![Insights Page](https://raw.githubusercontent.com/Siddaling1/Walmart-sales-performance-analysis/main/Screenshot%202026-03-01%20172208.png)
